@@ -1,1 +1,5 @@
-git init - Init new repository in new folder
+git init - Init new repository in current folder
+git status - Add new repository status
+git add <file> - Add file to staging area
+git commit -m "<Commit message>" - Make commit
+git log - посмотреть какие были изменения
