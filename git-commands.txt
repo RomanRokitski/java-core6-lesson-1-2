@@ -5,3 +5,6 @@ git commit -m "<Commit message>" - Make commit
 git log - see commit history
 git checkout <commit hash> - Switching git repository to specific commit
 git checkout <branch> - Switch git to last commit to specified branch
+git remote add origin <repository path> - Add <repository path> to remote origin server
+git pull origin <master> - fetch fresh code
+git push origin <branch> - push branch <branch> to remote repository <origin>
